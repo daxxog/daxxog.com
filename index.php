@@ -4,13 +4,13 @@
     <title>daXXog.com — homepage of David Volm
     </title>
     <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono' rel='stylesheet' type='text/css'>
-    <link type="text/css" rel="stylesheet" href="./daxxog.css" />
+    <link type="text/css" rel="stylesheet" href="./daxxog.css">
     <!--[if !IE]>-->
-    <link type="text/css" rel="stylesheet" media="only screen and (max-device-width: 480px)" href="./iphone.css" />
-    <link type="text/css" rel="stylesheet" href="./notie.css" />
+    <link type="text/css" rel="stylesheet" href="./notie.css">
+    <link type="text/css" rel="stylesheet" media="only screen and (max-device-width: 480px)" href="./iphone.css">
     <!--<![endif]-->
     <link rel="icon" type="image/vnd.microsoft.icon" href="./favicon.ico">
-    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
 <script type="text/javascript" src="./jquery-1.8.2.min.js"></script>
 <script type="text/javascript">
 $(function() {
