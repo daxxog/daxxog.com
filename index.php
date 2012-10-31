@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>daXXog.com — homepage of David Volm
+    <title>daXXog.com ï¿½ homepage of David Volm
     </title>
     <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono' rel='stylesheet' type='text/css'>
     <link type="text/css" rel="stylesheet" href="./daxxog.css">
@@ -32,7 +32,7 @@ $(function() {
       <a  class="bio" href="http://lcms.org/" target="_blank">Jesus Christ died to save me.</a>
     </div>
     <div id="programminglanguages" class="listcon"> 
-      <span class="blockt">Programing languages:
+      <span class="blockt">Programming languages:
       </span> 
       <br>
       <div class="fleft">{
